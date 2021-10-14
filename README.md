@@ -1,6 +1,6 @@
 # Losangles-Mountains
 
-Check out (LIVE DEMO) https://dashboard.heroku.com/apps/losangels-mountains-prasanna/deploy/github
+Check out (LIVE DEMO) https://losangels-mountains-prasanna.herokuapp.com/
 
 
 
