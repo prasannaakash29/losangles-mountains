@@ -1,6 +1,6 @@
 # Losangles-Mountains
 
-Check out (LIVE DEMO) https://losangels-mountains-prasanna.herokuapp.com/
+Check out [LIVE DEMO]{https://losangels-mountains-prasanna.herokuapp.com/}
 
 
 
